@@ -1,0 +1,20 @@
+{
+  "name": "weflyhightravel",
+  "version": "0.0.0",
+  "description": "Sample website for Web Development with Node and Express.",
+  "main": "travel_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeknows718/travel_app.git"
+  },
+  "author": "Joe C <joeknows718@.gmailcom>",
+  "license": "GPL, MIT",
+  "homepage": "https://github.com/EthanRBrown/web-development-with-node-and-express",
+  "dependencies": {
+    "express": "~4.4.2",
+    "express-handlebars": "~0.5.2"
+  }
+}
